@@ -1,2 +1,2 @@
 # Dominique-Talles-Reales
-WebPage for Dominique Talles Reales
+WebSite for Dominique Talles Reales
